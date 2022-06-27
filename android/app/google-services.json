@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "574369858508",
+    "firebase_url": "https://tiendamuestra-e7df9-default-rtdb.firebaseio.com",
+    "project_id": "tiendamuestra-e7df9",
+    "storage_bucket": "tiendamuestra-e7df9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574369858508:android:f3ba2a83b34938daef5369",
+        "android_client_info": {
+          "package_name": "com.example.tienda_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574369858508-ga1kr6vvrhmvfiuu3nuv1qri0m3gr1jv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tienda_test",
+            "certificate_hash": "4c41cac3923f38482e9c808f4a91cfda653fd90c"
+          }
+        },
+        {
+          "client_id": "574369858508-j15klvcpckj4dq92cji2rb9qn0sl6ifv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxjSiFgLMqhCbirMpHv0-TD-e8Bcc0hBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574369858508-j15klvcpckj4dq92cji2rb9qn0sl6ifv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
